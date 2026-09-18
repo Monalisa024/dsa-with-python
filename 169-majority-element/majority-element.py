@@ -1,0 +1,10 @@
+class Solution:
+    def majorityElement(self, nums):
+        mp = {}
+
+        for x in nums:
+            mp[x] = mp.get(x, 0) + 1
+
+            if mp[x] > len(nums) // 2:
+                return x
+        
