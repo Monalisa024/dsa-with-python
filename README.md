@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0697-degree-of-an-array](https://github.com/Monalisa024/dsa-with-python/tree/main/0697-degree-of-an-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/Monalisa024/dsa-with-python/tree/main/1122-relative-sort-array/) | Easy |
 | [1640-check-array-formation-through-concatenation](https://github.com/Monalisa024/dsa-with-python/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [3046-split-the-array](https://github.com/Monalisa024/dsa-with-python/tree/main/3046-split-the-array/) | Easy |
@@ -15,6 +16,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0697-degree-of-an-array](https://github.com/Monalisa024/dsa-with-python/tree/main/0697-degree-of-an-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/Monalisa024/dsa-with-python/tree/main/1122-relative-sort-array/) | Easy |
 | [1640-check-array-formation-through-concatenation](https://github.com/Monalisa024/dsa-with-python/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [3046-split-the-array](https://github.com/Monalisa024/dsa-with-python/tree/main/3046-split-the-array/) | Easy |
