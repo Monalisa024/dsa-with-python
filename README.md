@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Monalisa024/dsa-with-python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0605-can-place-flowers](https://github.com/Monalisa024/dsa-with-python/tree/main/0605-can-place-flowers/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Monalisa024/dsa-with-python/tree/main/0697-degree-of-an-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/Monalisa024/dsa-with-python/tree/main/1122-relative-sort-array/) | Easy |
 | [1640-check-array-formation-through-concatenation](https://github.com/Monalisa024/dsa-with-python/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
@@ -45,4 +46,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Monalisa024/dsa-with-python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/Monalisa024/dsa-with-python/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
