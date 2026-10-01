@@ -10,11 +10,13 @@
 | [0905-sort-array-by-parity](https://github.com/Monalisa024/dsa-with-python/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1122-relative-sort-array](https://github.com/Monalisa024/dsa-with-python/tree/main/1122-relative-sort-array/) | Easy |
 | [1640-check-array-formation-through-concatenation](https://github.com/Monalisa024/dsa-with-python/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Monalisa024/dsa-with-python/tree/main/1929-concatenation-of-array/) | Easy |
 | [3046-split-the-array](https://github.com/Monalisa024/dsa-with-python/tree/main/3046-split-the-array/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Monalisa024/dsa-with-python/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/Monalisa024/dsa-with-python/tree/main/1929-concatenation-of-array/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Monalisa024/dsa-with-python/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
